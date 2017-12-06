@@ -13,6 +13,7 @@ kalenteri vain vuodelta 2000):
 	txt/namedays-fi.txt     Suomenkielinen nimipäiväkalenteri txt-muotoisena
 	txt/namedays-sv.txt     Ruotsinkielinen nimipäiväkalenteri txt-muotoisena
 	txt/namedays-sa.txt     Saamenkielinen nimipäiväkalenteri txt-muotoisena
+	json/namedays-all.json  Kaikki nimipäiväkalenterit yhdistettynä json-muodossa
 	json/namedays-fi.json   Suomenkielinen nimipäiväkalenteri json-muotoisena
 	json/namedays-sv.json   Ruotsinkielinen nimipäiväkalenteri json-muotoisena
 	json/namedays-sa.json   Saamenkielinen nimipäiväkalenteri json-muotoisena
