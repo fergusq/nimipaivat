@@ -28,7 +28,7 @@
     ["Eine", "Eini", "Enni"],
     ["Senja"],
     ["Paavali", "Paavo", "Pauli"],
-    ["Joonatan", "Raino"],
+    ["Joonatan"],
     ["Viljo"],
     ["Kaarle", "Kaarlo", "Kalle", "Mies"],
     ["Valtteri"],
@@ -171,7 +171,7 @@
     ["Mimmi", "Minna", "Vilhelmiina", "Vilma"],
     ["Ritva"],
     ["Alma"],
-    ["Oiva"],
+    ["Oiva", "Oivi"],
     ["Pasi"],
     ["Helga", "Helka"]
    ]
@@ -310,7 +310,7 @@
     ["Mauri"],
     ["Mielikki"],
     ["Alvar", "Auno"],
-    ["Kullervo", "Oivi"],
+    ["Kullervo"],
     ["Kuisma"],
     ["Vesa"],
     ["Arja"],
@@ -321,7 +321,7 @@
   {
    "name": "Lokakuu",
    "days": [
-    ["Raine", "Rainer", "Rauno"],
+    ["Raine", "Rainer", "Raino", "Rauno"],
     ["Valio"],
     ["Raimo"],
     ["Saija", "Saila"],

@@ -464,7 +464,7 @@ Nyyrikki 10.1.
 Ohto 11.10.
 Oili 23.7.
 Oiva 29.5.
-Oivi 25.9.
+Oivi 29.5.
 Olavi 29.7.
 Olga 23.7.
 Olli 29.7.
@@ -522,7 +522,7 @@ Raili 13.6.
 Raimo 3.10.
 Raine 1.10.
 Rainer 1.10.
-Raino 26.1.
+Raino 1.10.
 Raisa 9.2.
 Raita 1.4.
 Rami 18.12.

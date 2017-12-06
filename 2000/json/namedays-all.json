@@ -28,7 +28,7 @@
     ["Eine", "Eini", "Enni", "Ingegerd", "Ingela", "Leammu", "Leammá", "Lemet", "Lemmá"],
     ["Jarl", "Selggo", "Senja"],
     ["Bávlos", "Bávva", "Bávvál", "Paavali", "Paavo", "Paul", "Pauli", "Poalla"],
-    ["Jonatan", "Joonatan", "Raino", "Ráidner"],
+    ["Jonatan", "Joonatan", "Ráidner"],
     ["Folke", "Valljáš", "Viljo"],
     ["Carola", "Gállá", "Kaarle", "Kaarlo", "Kalle", "Karl", "Kállá", "Kárral", "Mies"],
     ["Valter", "Valtteri", "Volter", "Válter"],
@@ -171,7 +171,7 @@
     ["Miinná", "Mimmi", "Minna", "Minná", "Vilbmá", "Vilhelmiina", "Vilhelmina", "Vilma"],
     ["Ingeborg", "Ritva", "Sáráhkká"],
     ["Alma", "Álbma"],
-    ["Oijá", "Oiva", "Oliver", "Olivia", "Orvar"],
+    ["Oijá", "Oiva", "Oivi", "Oliver", "Olivia", "Orvar"],
     ["Gearral", "Pasi", "Rurik"],
     ["Helga", "Helge", "Helgá", "Helka"]
    ]
@@ -310,7 +310,7 @@
     ["Mauri", "Mauritz", "Moritz", "Mures", "Mávra", "Mávrres"],
     ["Mielat", "Mielikki", "Milot", "Tekla"],
     ["Alvar", "Auno", "Jeansa"],
-    ["Kullervo", "Oivi", "Sigvard", "Siivár"],
+    ["Kullervo", "Sigvard", "Siivár"],
     ["Finn", "Gáivvaš", "Kuisma"],
     ["Torolf", "Vesa", "Čoavvá"],
     ["Arja", "Lennart", "Lenne", "Leonard"],
@@ -321,7 +321,7 @@
   {
    "name": "Lokakuu/Oktober/Golggotmánnu",
    "days": [
-    ["Ragnar", "Raine", "Rainer", "Rauno", "Rávdnár"],
+    ["Ragnar", "Raine", "Rainer", "Raino", "Rauno", "Rávdnár"],
     ["Ludvig", "Valio", "Vállju"],
     ["Evald", "Raimo", "Rássa"],
     ["Frans", "Ránso", "Saija", "Saila"],
