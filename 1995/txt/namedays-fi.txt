@@ -1,0 +1,377 @@
+31 Tammikuu
+1
+2 Aapeli
+3 Elmo Elmer
+4 Ruut
+5 Lea Leea
+6 Harri
+7 Aukusti Aku August
+8 Hilppa Titta
+9 Veikko Veli Veijo
+10 Nyyrikki
+11 Kari Karri
+12 Toini
+13 Nuutti
+14 Sakari Saku
+15 Solja
+16 Ilmari Ilmo
+17 Toni Antoni Antto Anton
+18 Laura
+19 Heikki Henrik Henrikki Henri
+20 Henna Henni Henriikka
+21 Aume Oona Auni
+22 Visa
+23 Eine Eini Enni
+24 Senja
+25 Paavo Pauli Paavali Paul
+26 Joonatan
+27 Viljo
+28 Kaarolo Kalle Kaarle Mies
+29 Valtteri
+30 Irja
+31 Alli
+28 Helmikuu
+1 Riitta
+2 Aamu
+3 Valo
+4 Armi
+5 Asser
+6 Terhi Teija Tiia Tea Terhikki
+7 Riku Rikhard
+8 Laina
+9 Raija Raisa
+10 Elina Elna Ella Ellen
+11 Talvikki
+12 Elma Elmi
+13 Sulo Sulho
+14 Voitto
+15 Sipi Sippo
+16 Kai
+17 Väinö Väinämö
+18 Kaino
+19 Eija
+20 Heli Helinä Heljä Hely
+21 Keijo
+22 Tuulikki tuuli Tuulia
+23 Aslak
+24 Matti Matias
+25 Tuija Tuire
+26 Nestori
+27 Torsti
+28 Onni
+31 Maaliskuu
+1 Alpo Alvi Alpi
+2 Virve Virva
+3 Kauko
+4 Ari Arsi Atro
+5 Laila Leila
+6 Tarmo
+7 Tarja Taru
+8 Vilppu
+9 Auvo
+10 Aurora Aura Auri
+11 Kalervo
+12 Reijo Reko
+13 Erno Tarvo Ernesti
+14 Matilda Tilda
+15 Risto
+16 Ilkka
+17 Kerttu Kerttuli
+18 Eetu Edvard
+19 Jooseppi Juuso Joosef Josefiina
+20 Aki Joakim Kim Jaakkima
+21 Pentti
+22 Vihtori
+23 Akseli
+24 Kaapo Gabriel Kaapro Kaappo
+25 Aija
+26 Manu Immanuel Manne Immo
+27 Sauli Saul
+28 Armas
+29 Joonas Jouni Joni Joona Jonne Jonni
+30 Usko
+31 Irma Irmeli
+30 Huhtikuu
+1 Raita Pulmu
+2 Pellervo
+3 Sampo
+4 Ukko
+5 Irene Irina Ira Iro
+6 Vilho Ville Viljami Vilhelm Vili
+7 Allan Ahvo
+8 Suoma Suometar
+9 Elias Eelis Eljas
+10 Tero
+11 Verna
+12 Julius Julia
+13 Tellervo
+14 Taito
+15 Linda Tuomi
+16 Jalo Patrik
+17 Otto
+18 Valto Valdemar
+19 Pälvi Pilvi
+20 Lauha
+21 Anssi Anselmi
+22 Alina
+23 Yrjö Jyrki
+24 Pertti Albert Altti
+25 Markku Markus Marko
+26 Terttu Teresa
+27 Merja
+28 Ilpo Ilppo Tuure
+29 Teijo
+30 Mirja Mirva Vira Miia Mirjami Mirka Mirkka
+31 Toukokuu
+1 Vappu Valpuri
+2 Vuokko Viivi
+3 Outi
+4 Ruusu Roosa
+5 Maini
+6 Ylemi
+7 Helmi Kastehelmi
+8 Heino
+9 Timo
+10 Aino Aina Aini Ainikki
+11 Osmo
+12 Lotta
+13 Kukka Floora
+14 Tuula
+15 Sofia Sonja Sohvi
+16 Esteri Essi Ester
+17 Maila Maili Mailis
+18 Erkki Eero Eerikki
+19 Emilia Milja Emma Emmi Milla Amalia
+20 Lilja Karoliina Lilli
+21 Kosti Konsta Konstantin
+22 Hemminki Hemmo
+23 Lyydia Lyyti
+24 Tuukka Touko
+25 Urpo
+26 Minna Vilma Vilhelmiina Mimmi
+27 Ritva
+28 Alma
+29 Oiva Oivi
+30 Pasi
+31 Helka Helga
+30 Kesäkuu
+1 Teemu Nikodemus
+2 Venla
+3 Orvokki
+4 Toivo
+5 Sulevi
+6 Kustaa Kyösti Kustavi
+7 Suvi
+8 Salomo Salomon
+9 Ensio
+10 Seppo
+11 Impi Immi
+12 Esko
+13 Raili Raila
+14 Kielo
+15 vieno Viena
+16 Päivi Päivikki Päivä
+17 Urho
+18 Tapio
+19 Siiri
+20 Into
+21 Ahti Ahto
+22 Paula Liina Pauliina
+23 Aatto Aatu Aadolf
+24 Johannes Juhani Juha Juho Jukka Jussi Janne Jani Juhana
+25 Uuno
+26 Jorma Jarmo Jarkko Jarno Jere Jeremias
+27 Elviira Elvi
+28 Leo
+29 Pietari Pekka Petri Petra Petteri Pekko
+30 Päiviö Päivö
+31 Heinäkuu
+1 Aaro Aaron
+2 Maria Mari Maija Meeri Maaria Marika Maiju Maikki Kukka-Maaria
+3 Arvo
+4 Ulla Ulpu
+5 Unto Untamo
+6 Esa Esaias
+7 Klaus Launo
+8 Turo Turkka
+9 Ilta Jasmin
+10 Saima Saimi
+11 Elli Noora Nelli Eleonoora
+12 Hermanni Herkko Herman
+13 Ilari Lari Joel
+14 Aliisa
+15 Rauni Rauma
+16 Reino
+17 Ossi Ossian
+18 Riikka
+19 Saara Sari Salli Salla Sara
+20 Marketta Maarit Reeta Maaret Reetta Margareeta
+21 Johanna Hanna Jenni Jenna Hannele Hanne Jonna
+22 Leena Leeni Lenita Mataleena
+23 Oili Olga
+24 Kirsti Tiina Kirsi Kristiina Krista
+25 Jaakko Jaakoppi Jaakob
+26 Martta
+27 Unikeonpäivä Heidi
+28 Atso
+29 Olavi Olli Uolevi Uoti
+30 Asta
+31 Helena Elena
+31 Elokuu
+1 Maire
+2 Kimmo
+3 Linnea Nea Vanamo
+4 Veera
+5 Salme Sanelma
+6 Toimi Keimo
+7 Lahja
+8 Sylvi Sylvia Silva
+9 Erja Eira
+10 Lauri Lassi Lassi
+11 Sanna Susanna Sanni
+12 Klaara
+13 Jesse
+14 Onerva Kanerva
+15 Marjatta Marja Jaana Marjo Marjut Marjaana Marjukka Marita Maritta Marianne Marianna
+16 Aulis
+17 Verneri
+18 Leevi
+19 Mauno Maunu
+20 Samuli Sami Samuel Samu
+21 Soini Veini
+22 Iivari Iivo
+23 Varma Signe
+24 Perttu
+25 Loviisa
+26 Ilma Ilmi Ilmatar
+27 Rauli
+28 Tauno
+29 Iines Iina Inari
+30 Eemil Eemeli
+31 Arvi
+30 Syyskuu
+1 Pirkka
+2 Sinikka Sini
+3 Soii Soile Soila
+4 Ansa
+5 Mainio
+6 Asko
+7 Arto Arhippa
+8 Taimi
+9 Eevert Isto
+10 Kalevi Kaleva
+11 Santeri Ali Ale Aleksanteri
+12 Valma Vilja
+13 Orvo
+14 Iida
+15 Sirpa
+16 Hellevi Hillevi Hille Hilla
+17 Aili Aila
+18 Tyyne Tytti Tyyni
+19 Reija
+20 Varpu Vaula
+21 Mervi
+22 Mauri
+23 Mielikki
+24 Alvar Auno
+25 Kullervo
+26 Kuisma
+27 Vesa
+28 Arja
+29 Mikko Mika Mikael Milka Miikka
+30 Sorja Sirja
+31 Lokakuu
+1 Rauno Rainer Raine Raino
+2 Valio
+3 Raimo
+4 Saila Saija
+5 Inkeri Inka
+6 Minttu Pinja
+7 Pirkko Pirjo Piritta Pirita Birgitta
+8 Hilja
+9 Ilona
+10 Aleksi Aleksis
+11 Otso Ohto
+12 Aarre Aarto
+13 Taina Tanja Taija
+14 Elsa Else Elsa
+15 Helvi Heta
+16 Sirkka Sirkku
+17 Saini Saana
+18 Satu Säde
+19 Uljas
+20 Kauno Kasperi
+21 Ursula
+22 Anja Anita Anniina Anitta
+23 Severi
+24 Asmo
+25 Uljas
+26 Amanda Niina Manta
+27 Helli Hellä Hellin Helle
+28 Simo
+29 Alfred Urmas
+30 Eila
+31 Artturi Arto Arttu
+30 Marraskuu
+1 Pyry Lyly
+2 Topi Topias
+3 Terho
+4 Hertta
+5 Reima
+6
+7 Taisto
+8 Aatos
+9 Teuvo
+10 Martti
+11 Panu
+12 Virpi
+13 Ano Krirstian
+14 Iiris
+15 Janika Janita Janina
+16 Aarne Aarno Aarni
+17 Eino Einari
+18 Tenho Jousia
+19 Liisa Eliisa Elisa Elisabet Liisi
+20 Jalmari Jari
+21 Hilma
+22 Silja Selja
+23 Ismo
+24 Lempi Lemmikki Sivi
+25 Katri Kaisa Kaija Katja Kaarina Katariina Kati Kaisu Riina
+26 Sisko
+27 Hilkka
+28 Heini
+29 Aimo
+30 Antti Antero Atte
+31 Joulukuu
+1 Oskari
+2 Anelma Unelma
+3 Vellamo Meri
+4 Airi Aira
+5 Selma
+6 Niilo Niko Niklas
+7 Sampsa
+8 Kyllikki Kylli
+9 Anna Anne Anni Anu Annikki Anneli Annukka Annika
+10 Jutta
+11 Taneli Tatu Daniel
+12 Tuovi
+13 Seija
+14 Jouko
+15 Heimo
+16 Auli Aulikki
+17 Raakel
+18 Aapo Aappo Rami
+19 Iikka Iiro Iisakki Isko
+20 Benjamin Kerkko
+21 Tuomas Tuomo Tommi Tomi
+22 Raafael
+23 Senni
+24 Aatami Eeva Eevi Eveliina
+25 
+26 Tapani Teppo Tahvo
+27 Hannu Hannes
+28 Piia
+29 Rauha
+30 Daavid Taavetti Taavi
+31 Sylvester Silvo

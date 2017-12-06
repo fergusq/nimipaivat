@@ -1,0 +1,75 @@
+/*
+ * Copyright (C) 2017 Iikka Hauhio
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining
+ * a copy of this software and associated documentation files (the
+ * "Software"), to deal in the Software without restriction, including
+ * without limitation the rights to use, copy, modify, merge, publish,
+ * distribute, sublicense, and/or sell copies of the Software, and to
+ * permit persons to whom the Software is furnished to do so, subject to
+ * the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included
+ * in all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ * CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ */
+
+skip n {
+	for _ in [seq(1, n)] do
+		pull | {}
+	done
+	identity
+}
+
+lueNimet tiedosto {
+	readLines tiedosto | for line do
+		lkm := parseInteger(line[:2])
+		nimi := line[3:]
+		for _ in [seq(1, lkm)] do
+			pull | split | skip 1 | sum fst=[]
+		done | sum fst=[]
+		push nimi
+	done
+}
+
+päivätJsoniksi {
+	print `{`
+	print ` "months": [`
+	for päivät, kuukausi, i do
+		print `  {`
+		print `   "name": "$kuukausi",`
+		print `   "days": [`
+		print "", [push(`    [`..([päivä() | unorderedUniq | sort | push `"$nimi"` for nimi]&", ")..`]`) for päivä in päivät]&",\n"
+		print `   ]`
+		print `  },` if [ i < 11 ] else print `  }`
+	done
+	print ` ]`
+	print `}`
+}
+
+main {
+	pituudet := [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+	kuukaudet := [push([push([]) for _ in [seq(1, p)]]) for p in pituudet]
+	kuukausien_nimet := [push([]) for _ in [seq(1, 12)]]
+	tallennaPäivät := {
+		i := 0
+		for päivät, nimi do
+			kuukaudet[i][j] .= päivät[j] for j in [seq(0, #päivät-1)]
+			kuukausien_nimet[i] += nimi
+			push päivät, nimi, i
+			i ++
+		done
+	}
+	lueNimet "txt/namedays-fi.txt" | tallennaPäivät | päivätJsoniksi | writeStrings "json/namedays-fi.json"
+	lueNimet "txt/namedays-sv.txt" | tallennaPäivät | päivätJsoniksi | writeStrings "json/namedays-sv.json"
+	kuukaudet <> kuukausien_nimet <> seq 0, 11 | for päivät, nimi, i do
+		push päivät, nimi&"/", i
+	done | päivätJsoniksi | writeStrings "json/namedays-all.json"
+}
