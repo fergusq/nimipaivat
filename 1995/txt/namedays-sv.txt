@@ -102,7 +102,7 @@
 8 Rea
 9 Elias Elis
 10 Tryggve
-11 Verma
+11 Verna
 12 Julius Julia
 13 Etel
 14 Ruben
@@ -124,7 +124,7 @@
 30 Mirjam Mia
 31 Maj
 1 Valborg
-2 Vivian Vivi
+2 Vivan Vivi
 3 Rasmus
 4 Rosa
 5 Ulrik
@@ -349,7 +349,7 @@
 3 Urda
 4 Barbara Barbro
 5 Selma
-6 Nils Niklar
+6 Nils Niklas
 7 Agata Agda Ågot
 8 Magnhild Magna
 9 Anna Anne Anni Annika Anneli Annette

@@ -15,18 +15,18 @@
 14 Sakari Saku
 15 Solja
 16 Ilmari Ilmo
-17 Toni Antoni Antto Anton
+17 Toni Anttoni Antto Anton
 18 Laura
 19 Heikki Henrik Henrikki Henri
 20 Henna Henni Henriikka
-21 Aume Oona Auni
+21 Aune Oona Auni
 22 Visa
 23 Eine Eini Enni
 24 Senja
 25 Paavo Pauli Paavali Paul
 26 Joonatan
 27 Viljo
-28 Kaarolo Kalle Kaarle Mies
+28 Kaarlo Kalle Kaarle Mies
 29 Valtteri
 30 Irja
 31 Alli
@@ -52,7 +52,7 @@
 19 Eija
 20 Heli Helinä Heljä Hely
 21 Keijo
-22 Tuulikki tuuli Tuulia
+22 Tuulikki Tuuli Tuulia
 23 Aslak
 24 Matti Matias
 25 Tuija Tuire
@@ -121,14 +121,14 @@
 27 Merja
 28 Ilpo Ilppo Tuure
 29 Teijo
-30 Mirja Mirva Vira Miia Mirjami Mirka Mirkka
+30 Mirja Mirva Mira Miia Mirjami Mirka Mirkka
 31 Toukokuu
 1 Vappu Valpuri
 2 Vuokko Viivi
 3 Outi
 4 Ruusu Roosa
 5 Maini
-6 Ylemi
+6 Ylermi
 7 Helmi Kastehelmi
 8 Heino
 9 Timo
@@ -145,7 +145,7 @@
 20 Lilja Karoliina Lilli
 21 Kosti Konsta Konstantin
 22 Hemminki Hemmo
-23 Lyydia Lyyti
+23 Lyydia Lyyli
 24 Tuukka Touko
 25 Urpo
 26 Minna Vilma Vilhelmiina Mimmi
@@ -169,7 +169,7 @@
 12 Esko
 13 Raili Raila
 14 Kielo
-15 vieno Viena
+15 Vieno Viena
 16 Päivi Päivikki Päivä
 17 Urho
 18 Tapio
@@ -200,7 +200,7 @@
 12 Hermanni Herkko Herman
 13 Ilari Lari Joel
 14 Aliisa
-15 Rauni Rauma
+15 Rauni Rauna
 16 Reino
 17 Ossi Ossian
 18 Riikka
@@ -212,7 +212,7 @@
 24 Kirsti Tiina Kirsi Kristiina Krista
 25 Jaakko Jaakoppi Jaakob
 26 Martta
-27 Unikeonpäivä Heidi
+27 Heidi
 28 Atso
 29 Olavi Olli Uolevi Uoti
 30 Asta
@@ -252,11 +252,11 @@
 30 Syyskuu
 1 Pirkka
 2 Sinikka Sini
-3 Soii Soile Soila
+3 Soili Soile Soila
 4 Ansa
 5 Mainio
 6 Asko
-7 Arto Arhippa
+7 Arho Arhippa
 8 Taimi
 9 Eevert Isto
 10 Kalevi Kaleva
@@ -278,7 +278,7 @@
 26 Kuisma
 27 Vesa
 28 Arja
-29 Mikko Mika Mikael Milka Miikka
+29 Mikko Mika Mikael Miika Miikka
 30 Sorja Sirja
 31 Lokakuu
 1 Rauno Rainer Raine Raino
@@ -305,7 +305,7 @@
 22 Anja Anita Anniina Anitta
 23 Severi
 24 Asmo
-25 Uljas
+25 Sointu
 26 Amanda Niina Manta
 27 Helli Hellä Hellin Helle
 28 Simo
@@ -325,7 +325,7 @@
 10 Martti
 11 Panu
 12 Virpi
-13 Ano Krirstian
+13 Ano Kristian
 14 Iiris
 15 Janika Janita Janina
 16 Aarne Aarno Aarni
